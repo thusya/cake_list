@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cake</string>
+    <string name="refresh">Refresh</string>
+    <string name="retry">Try again</string>
+    <string name="close">Lovely, thanks</string>
+    <string name="collection_label">THE CAKE COLLECTION</string>
+    <string name="collection_title">A little slice of joy.</string>
+    <string name="collection_subtitle">Find your next favourite. Tap a cake to discover more.</string>
+    <string name="view_details">Discover this cake</string>
+    <string name="show_description">Show cake description</string>
+    <string name="no_description">No description is available yet.</string>
+    <string name="image_placeholder">Cake</string>
+    <string name="empty_title">No cakes just yet</string>
+    <string name="empty_body">Refresh to check the collection again.</string>
+    <string name="error_title">Couldn’t load the cakes</string>
+    <string name="error_network">Check your internet connection and try again.</string>
+    <string name="error_server">The cake collection is temporarily unavailable. Please try again.</string>
+    <string name="error_data">We couldn’t read the collection. Please try again later.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+</resources>
